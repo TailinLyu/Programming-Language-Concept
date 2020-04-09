@@ -3,4 +3,5 @@ This repository contains homework solutions for CS:3820 **Programming Language C
 
 ## License
 Chapter Homework in Programming in Haskell@Graham Hutton
+
 Implemented by @Tailin Lyu
